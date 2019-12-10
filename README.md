@@ -12,3 +12,9 @@ The code is modified version of the code available from the post: http://www.lum
 "Word embeddings are low dimensional vectors obtained by training a neural network on a large corpus to predict a word given a context (Continuous Bag Of Words model) or to predict the context given a word (skip gram model). The context is a window of surrounding words. The most known for word embeddings is Tomas Mikolov's Word2vec."
 
 The great example of k-means clustering using tf-idf vectors with the scikit-learn implementation
+
+***Read more about TfidfVectorizer: https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html***
+
+***Read more about KMeans:
+https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html***
+
